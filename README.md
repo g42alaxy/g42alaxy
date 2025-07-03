@@ -1,5 +1,5 @@
-- ✅  Hi, I’m Matvei Anoshin, MIPT (Moscow) Bachelor Student 🎓 
-- 👁‍🗨  I’m interested in Data Science application in ⚛️ Quantum computing 🌌 Astrophysics and 🧬 BioTechnologies 
+- ✅  Hi, I’m Matvei Anoshin, Moscow Institute of Physics and Technology Bachelor Student 🎓 
+- 👁‍🗨  I’m interested in Data Science applications in ⚛️ Quantum computing 🌌 Astrophysics and 🧬 BioTechnologies 
 - 📳  Message me on Telegram:    @g42alaxy
 - 📧  Message me on email: anoshin.ma@phystech.edu    
 
