@@ -1,7 +1,7 @@
 - ✅  Hi, I’m Matvei Anoshin, Moscow Institute of Physics and Technology Bachelor Student 🎓 
-- 👁‍🗨  I’m interested in Data Science applications in ⚛️ Quantum computing 🌌 Astrophysics and 🧬 BioTechnologies 
-- 📳  Message me on Telegram:    @g42alaxy
-- 📧  Message me on email: anoshin.ma@phystech.edu    
+- 👁‍🗨  I’m interested in Data Science applications in ⚛️ Quantum computing 🧬 Chemoinformatics and 🌌 Astrophysics
+- 📳  Message me on Telegram:    `@g42alaxy`
+- 📧  Message me on email: `anoshin.ma@phystech.edu`    
 
 <!---
 - 🧠  My Kaggle: [link](https://www.kaggle.com/matthewanoshin)
